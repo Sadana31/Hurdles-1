@@ -1,2 +1,2 @@
-# Hurdles-1
-The base part of my multiplayer game
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
